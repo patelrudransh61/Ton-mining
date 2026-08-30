@@ -1,0 +1,12 @@
+TON MINER PRO
+
+1. Rename .env.example to .env
+2. Put BOT_TOKEN and ADMIN_ID in .env
+3. Install: pip install -r requirements.txt
+4. Run: python bot.py
+5. Open the bot and use /admin
+
+IMPORTANT:
+- Mining is simulated in-app.
+- Stars purchases use Telegram's XTR payment system.
+- Real TON payouts are manually sent by the admin.
